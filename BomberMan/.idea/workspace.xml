@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="956b00fb-b408-483b-8c27-75160fa24232" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Zvqmbxw4T2DXLffBo5ukAZOH2w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="gameFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.gameFrame" />
+      <module name="BomberMan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.gameFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="956b00fb-b408-483b-8c27-75160fa24232" name="Default Changelist" comment="" />
+      <created>1585730074963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585730074963</updated>
+      <workItem from="1585730123503" duration="487000" />
+      <workItem from="1587287847068" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1374" height="62" key="GridCell.Tab.0.bottom" timestamp="1585730613589">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="62" key="GridCell.Tab.0.bottom/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1585730613589" />
+    <state width="1374" height="62" key="GridCell.Tab.0.center" timestamp="1585730613589">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="62" key="GridCell.Tab.0.center/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1585730613589" />
+    <state width="1374" height="62" key="GridCell.Tab.0.left" timestamp="1585730613589">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="62" key="GridCell.Tab.0.left/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1585730613589" />
+    <state width="1374" height="62" key="GridCell.Tab.0.right" timestamp="1585730613589">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="62" key="GridCell.Tab.0.right/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1585730613589" />
+    <state x="210" y="22" key="SettingsEditor" timestamp="1585730596625">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="210" y="22" key="SettingsEditor/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1585730596625" />
+    <state x="395" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1587287846260">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="395" y="203" key="com.intellij.ide.util.TipDialog/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1587287846260" />
+    <state x="105" y="1" key="new project wizard" timestamp="1587287902331">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="105" y="1" key="new project wizard/0.0.1418.759/320.-1024.945.717@0.0.1418.759" timestamp="1587287902331" />
+  </component>
+</project>
